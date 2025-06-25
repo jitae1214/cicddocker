@@ -9,6 +9,6 @@ public class helloController {
 
     @GetMapping("/hi")
     public String hi() {
-        return "hi1";
+        return "hi12";
     }
 }
